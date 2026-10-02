@@ -9,10 +9,10 @@ q1 = 00001101
 q2 = 00011010
 
 # 3. Write 100 in binary (8 bits).
-q3 = 00110100
+q3 = 01100100
 
 # 4. What decimal number is 10101010?
-q4 = 340
+q4 = 170
 
 # 5. Decode these two ASCII bytes as text: 01001000 01101001
 q5 = Hi
@@ -22,4 +22,4 @@ q6 = 256
 
 # 7. Binary search on a sorted list of 1 000 000 000 (one billion) items: about how many
 #    steps in the worst case? (A whole number; the lecture table has it.)
-q7 = 30 steps
+q7 = 30
