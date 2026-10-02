@@ -6,10 +6,13 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-1  Pick up the first paper
-2  Remember its number as "largest so far"
-3  If there are no papers left, go to line 7
-4  Pick up the next paper
-5  If its number is bigger than "largest so far", remember it as "largest so far"
-6  Go back to line 3
-7  Announce "largest so far"
+1  Set "low" to 1 and "high" to 100
+2  Calculate "middle" as the average of "low" and "high" (round down)
+3  Ask friend: "Is your number middle?"
+4  If the answer is "yes", go to line 10
+5  Ask friend: "Is your number greater than middle?"
+6  If the answer is "yes", set "low" to "middle + 1"
+7  If the answer is "no", set "high" to "middle - 1"
+8  Go back to line 2
+9  Announce "I found your number: middle"
+10 Stop the game
