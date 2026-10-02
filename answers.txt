@@ -3,13 +3,13 @@
 # Binary answers must be exactly 8 bits, e.g. 00000101.
 
 # 1. Write 13 in binary (8 bits).
-q1 =
+q1 = 00001101
 
 # 2. Write 42 in binary (8 bits).
-q2 =
+q2 = 00011010
 
 # 3. Write 100 in binary (8 bits).
-q3 =
+q3 = 00110100
 
 # 4. What decimal number is 10101010?
 q4 =
