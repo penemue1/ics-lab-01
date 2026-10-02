@@ -15,4 +15,4 @@ Replace the example below with your own.
 7  If the answer is "no", set "high" to "middle - 1"
 8  Go back to line 2
 9  Announce "I found your number: middle"
-10 Stop the game
+10  Stop the game
