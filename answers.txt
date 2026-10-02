@@ -6,7 +6,7 @@
 q1 = 00001101
 
 # 2. Write 42 in binary (8 bits).
-q2 = 00011010
+q2 = 00101010
 
 # 3. Write 100 in binary (8 bits).
 q3 = 01100100
