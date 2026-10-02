@@ -31,8 +31,8 @@ Meow: PASTE-YOUR-PROJECT-LINK-HERE
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: [PASTE-YOUR-PROJECT-LINK-HERE](https://scratch.mit.edu/projects/1387494934)
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+This interactive animation uses when green flag clicked and broadcast events, a Happiness variable, an if-else condition, and a repeat loop packaged cleanly inside custom blocks like singing to make a cat react dynamically to the user's apology.
